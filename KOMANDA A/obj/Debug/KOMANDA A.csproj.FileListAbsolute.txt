@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\KOMANDA A\bin\Debug\KOMANDA A.exe.config
+C:\Users\PC\source\repos\KOMANDA A\bin\Debug\KOMANDA A.exe
+C:\Users\PC\source\repos\KOMANDA A\bin\Debug\KOMANDA A.pdb
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form1.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Properties.Resources.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.exe
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.pdb
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form2.resources
