@@ -17,28 +17,32 @@ namespace KOMANDA_A
             InitializeComponent();
         }
 
+        //ползунок суммы вклада
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
             textBox1.Text = trackBar1.Value.ToString();
         }
 
+        //ползунок срока вклада
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
             textBox2.Text = trackBar2.Value.ToString();
         }
 
+        //ползунок ежемесячного пополнения вклада
         private void trackBar3_Scroll(object sender, EventArgs e)
         {
             textBox3.Text = trackBar3.Value.ToString();
         }
 
+        //Кнопка "Рассчитать", расчёт дохода по тарифам вклада
         private void button2_Click(object sender, EventArgs e)
         {
             try
             {
-                float sum = Convert.ToInt32(textBox1.Text);
-                float srokvk = Convert.ToInt32(textBox2.Text);
-                float monrefill = Convert.ToInt32(textBox3.Text);
+                float sum = Convert.ToSingle(textBox1.Text);
+                float srokvk = Convert.ToSingle(textBox2.Text);
+                float monrefill = Convert.ToSingle(textBox3.Text);
                 //стабильный
                 float prsum1 = (sum / 100 * 8) / 12 * srokvk;
                 //оптимальный
@@ -56,6 +60,7 @@ namespace KOMANDA_A
             //float monrefill = Convert.ToInt32(textBox3.Text);
         }
 
+        //Кнопка "Сравнить параметры", переход на форму сравнения вкладов
         private void button1_Click(object sender, EventArgs e)
         {
             Form3 f3 = new KOMANDA_A.Form3();
@@ -63,9 +68,9 @@ namespace KOMANDA_A
             f3.label6.Text = label11.Text;
             f3.label10.Text = label12.Text;
             f3.label14.Text = label13.Text;
-            float sum = Convert.ToInt32(textBox1.Text);
-            float srokvk = Convert.ToInt32(textBox2.Text);
-            float monrefill = Convert.ToInt32(textBox3.Text);
+            float sum = Convert.ToSingle(textBox1.Text);
+            float srokvk = Convert.ToSingle(textBox2.Text);
+            float monrefill = Convert.ToSingle(textBox3.Text);
             float prsum1 = (sum / 100 * 8) / 12 * srokvk;
             float prsum2 = ((sum + monrefill) / 100 * 5) / 12 * srokvk;
             float prsum3 = ((sum + monrefill) / 100 * 6) / 12 * srokvk;

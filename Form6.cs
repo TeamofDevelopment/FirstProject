@@ -10,16 +10,15 @@ using System.Windows.Forms;
 
 namespace KOMANDA_A
 {
-    public partial class Form3 : Form
+    public partial class Form6 : Form
     {
-        public Form3()
+        public Form6()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //float sum = ;
             Form4 f4 = new KOMANDA_A.Form4();
             f4.Show();
             Hide();
@@ -38,11 +37,5 @@ namespace KOMANDA_A
             f4.Show();
             Hide();
         }
-
-        /*private void button4_Click(object sender, EventArgs e)
-        {
-
-        }*/
-
     }
 }

@@ -1,0 +1,58 @@
+C:\Users\PC\source\repos\KOMANDA A\bin\Debug\KOMANDA A.exe.config
+C:\Users\PC\source\repos\KOMANDA A\bin\Debug\KOMANDA A.exe
+C:\Users\PC\source\repos\KOMANDA A\bin\Debug\KOMANDA A.pdb
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form1.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Properties.Resources.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.exe
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA A.pdb
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form2.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form3.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form4.resources
+C:\Users\PC\source\repos\KOMANDA A\obj\Debug\KOMANDA_A.Form5.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\bin\Debug\KOMANDA A.exe.config
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA A.exe
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA A.pdb
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA A.csprojResolveAssemblyReference.cache
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Form1.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Form2.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Form3.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Form4.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Form5.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Form6.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA_A.Properties.Resources.resources
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\obj\Debug\KOMANDA A.csproj.GenerateResource.Cache
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\bin\Debug\KOMANDA A.exe
+C:\Users\Afanasiy\Documents\Visual Studio 2015\Projects\KOMANDA A\bin\Debug\KOMANDA A.pdb
+H:\KOMANDA A\bin\Debug\KOMANDA A.exe.config
+H:\KOMANDA A\bin\Debug\KOMANDA A.exe
+H:\KOMANDA A\bin\Debug\KOMANDA A.pdb
+H:\KOMANDA A\obj\Debug\KOMANDA A.csprojAssemblyReference.cache
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Form1.resources
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Form2.resources
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Form3.resources
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Form4.resources
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Form5.resources
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Form6.resources
+H:\KOMANDA A\obj\Debug\KOMANDA_A.Properties.Resources.resources
+H:\KOMANDA A\obj\Debug\KOMANDA A.csproj.GenerateResource.cache
+H:\KOMANDA A\obj\Debug\KOMANDA A.exe
+H:\KOMANDA A\obj\Debug\KOMANDA A.pdb
+I:\Team A\bin\Debug\KOMANDA A.exe.config
+I:\Team A\obj\Debug\KOMANDA A.exe
+I:\Team A\obj\Debug\KOMANDA A.pdb
+I:\Team A\obj\Debug\KOMANDA A.csprojResolveAssemblyReference.cache
+I:\Team A\obj\Debug\KOMANDA_A.Form1.resources
+I:\Team A\obj\Debug\KOMANDA_A.Form2.resources
+I:\Team A\obj\Debug\KOMANDA_A.Form3.resources
+I:\Team A\obj\Debug\KOMANDA_A.Form4.resources
+I:\Team A\obj\Debug\KOMANDA_A.Form5.resources
+I:\Team A\obj\Debug\KOMANDA_A.Form6.resources
+I:\Team A\obj\Debug\KOMANDA_A.Properties.Resources.resources
+I:\Team A\obj\Debug\KOMANDA A.csproj.GenerateResource.Cache
+I:\Team A\bin\Debug\KOMANDA A.exe
+I:\Team A\bin\Debug\KOMANDA A.pdb
+I:\KOMANDA A\bin\Debug\KOMANDA A.exe.config
+I:\KOMANDA A\obj\Debug\KOMANDA A.exe
+I:\KOMANDA A\obj\Debug\KOMANDA A.pdb
